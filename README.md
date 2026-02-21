@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gowtham0597
-- 👀 I’m interested in Embedded System
+- 👀 I’m interested in Embedded System and Software Developer
 - 🌱 I’m currently learning Embedded System
 - 💞️ I’m looking to collaborate on Embedded System
 - 📫 How to reach me ...gowthamguna66@gmail.com
